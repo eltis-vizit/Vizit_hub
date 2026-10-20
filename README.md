@@ -1,4 +1,4 @@
-scritp status:
+script status:
 
 working:🟢 
 working unreliably:🟡
